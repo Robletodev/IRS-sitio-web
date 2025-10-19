@@ -1,0 +1,44 @@
+/* Estilos generales boton de aula virtual*/
+
+
+.btn-outline-primary:hover { /* crea el cambio de color y animacion del boton */
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(13, 110, 253, 0.2);
+}
+
+
+.btn { /* caracteristicas fisicas del boton no borrar*/
+    display: flex;
+    padding: 8.5px 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 30px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+
+
+.btn-outline:hover {
+    background-color: #0033a1;
+    color: white;
+}
+
+.classroomvirtual .btn-lang  {
+    margin-top: 39.6px; /* Ajusta el valor según lo que necesites */
+    
+}
+
+.classroomvirtual .btn-outline-primary {
+    margin-top: 38px; /* Ajusta el valor según lo que necesites */
+}
+
+.text-button-lang{
+    margin-left: 8px;
+}
+
+
+    
+

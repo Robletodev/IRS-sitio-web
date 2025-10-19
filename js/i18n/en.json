@@ -1,0 +1,201 @@
+{
+  "header": {
+    "home": "Home",
+    "academic_year": "Academic Year 2026",
+    "enrollment": "Enrollment Open",
+    "experience": "Educational Experience",
+    "regulation": "Regulation",
+    "school calendar": "School Calendar", 
+    "schedule your visit": "Schedule Your Visit",
+    "excursions": "Excursions",
+    "events": "Events",
+    "about": "About Us",
+    "blog": "Blog",
+    "contact": "Contact",
+    "virtual_classroom": "Virtual Classroom",
+    "formation_dreams": "Education to Fulfill Dreams",
+    "levels": "Preschool, primary and secondary",
+    "more_info": "More Info"
+  },
+  "hero": {
+    "year": "Academic Year 2026",
+    "title": "Education to Fulfill Dreams",
+    "subtitle": "Preschool, primary and secondary | Robotics and Computer Science",
+    "button1": "Enroll Now",
+    "button2": "View Academic Programs"
+  },
+  "cards": {
+    "title": "Our Culture Forms International Academic Excellence",
+    "subtitle": "Values that Endure...",
+    "card1": {
+      "title": "Education",
+      "subtitle": "Individualized",
+      "text": "True personalized attention with groups of maximum 12 students per classroom."
+    },
+    "card2": {
+      "title": "Learning",
+      "subtitle": "Interactive",
+      "text": "Quality education through cutting-edge technology and the most advanced interactive and virtual education programs."
+    },
+    "card3": {
+      "title": "Teaching",
+      "subtitle": "Polyglot",
+      "text": "Neurolinguistic development through learning 5 languages from initial level and 100% bilingual training in Spanish and English."
+    },
+    "card4": {
+      "title": "Focus",
+      "subtitle": "Environmental",
+      "text": "We have been Ecological Blue Flag since 2013."
+    },
+    "card5": {
+      "title": "Stimulation",
+      "subtitle": "Creative",
+      "text": "Classes that stimulate art, drawing, sports and music."
+    }
+  },
+  "features": {
+    "title": "Main Features",
+    "subtitle": "Discover why we are the best option for your.",
+    "feature1": {
+      "title": "Recognized and Awarded",
+      "text": "Royal, internationally awarded for its excellence."
+    },
+    "feature2": {
+      "title": "International Presence",
+      "text": "International."
+    },
+    "feature3": {
+      "title": "Technological",
+      "text": "Highly trained teachers."
+    },
+    "feature4": {
+      "text": "Use of cutting-edge technology."
+    },
+    "feature5": {
+
+      "text": "Free tutoring."
+    },
+    "feature6": {
+      "text": "Promoting values ​​beyond the academic."
+    }
+  },
+  "newsletter": {
+    "title": "Stay Updated",
+    "subtitle": "Subscribe to our newsletter to receive tips and news",
+    "placeholder": "Your email address",
+    "button": "Subscribe"
+  },
+  "testimonials": {
+    "text": "\"There is a future of infinite opportunities and it begins here...\"",
+    "author": "- Mirta Brito De La Cuesta -"
+  },
+"about_history": {
+  "title": "Our History", 
+  "subtitle": "A tradition of educational excellence since 1997",
+  "heading": "28 years forming generations",
+  "text1": "Founded in 1997, International Royal School has grown from a small local institution to become a benchmark in international education. Our mission has always been to provide quality education that prepares students for global challenges.",
+  "text2": "Over the years, we have maintained our commitment to academic excellence, educational innovation, and the comprehensive development of each student.",
+  "button": "Learn more"
+},
+"about_mission": {
+  "title": "Mission and Vision",
+  "subtitle": "The pillars that guide our institution", 
+  "mission_title": "Mission",
+  "mission_text": "To form global citizens through comprehensive excellence education, fostering critical thinking, creativity, and ethical values that allow our students to contribute positively to society.",
+  "vision_title": "Vision",
+  "vision_text": "To be recognized as the leading educational institution in pedagogical innovation and the formation of integral persons, capable of transforming the world with knowledge, sensitivity, and leadership."
+},
+"about_values": {
+  "title": "Our Values",
+  "subtitle": "The principles that define our educational community",
+  "excellence_title": "Excellence", 
+  "excellence_text": "We always seek the highest quality in everything we do.",
+  "respect_title": "Respect",
+  "respect_text": "We value diversity and promote an inclusive environment.",
+  "innovation_title": "Innovation",
+  "innovation_text": "We foster creativity and disruptive thinking.",
+  "social_title": "Social Responsibility", 
+  "social_text": "Committed to the sustainable development of our community."
+},
+"about_team": {
+  "title": "Our Management Team",
+  "subtitle": "Professionals committed to excellence in education", 
+  "director": "Director",
+  "subdirector": "Academic Subdirector",
+  "coordinator": "Internationalization Coordinator"
+},
+"about_achievements": {
+  "title": "Achievements and Recognitions",
+  "subtitle": "Results that make us proud",
+  "achievement1": "of our students enter prestigious universities", 
+  "achievement2": "years of educational excellence",
+  "achievement3": "international exchange programs", 
+  "achievement4": "successful graduates"
+},
+"about_cta": {
+  "title": "Ready to join our community?",
+  "subtitle": "Discover how International Royal School can transform your children's future.", 
+  "button": "Request Information"
+},
+  "blog": {
+    "title": "Blog | International Royal School",
+    "header": {
+      "blogTitle": "Blog",
+      "schoolName": "International Royal School"
+    },
+    "hero": {
+      "title": "Welcome to Our Blog",
+      "description": "A space where International Royal School shares ideas, experiences, and knowledge about various topics of interest."
+    },
+    "posts": {
+      "post1": {
+        "date": "May 15, 2023",
+        "title": "Neuroeducation: How Our Brain Learns",
+        "excerpt": "Explore the scientific foundations of learning and evidence-based strategies.",
+        "readMore": "Read more"
+      },
+      "post2": {
+        "date": "May 10, 2023",
+        "title": "Gamification in the Classroom: Transforming Learning",
+        "excerpt": "How to implement game elements to increase student motivation.",
+        "readMore": "Read more"
+      },
+      "post3": {
+        "date": "May 5, 2023",
+        "title": "Emotional Education: The Pending Subject",
+        "excerpt": "The importance of developing emotional intelligence in students. Activities for emotion recognition, frustration management, empathy development.",
+        "readMore": "Read more"
+      },
+      "post4": {
+        "date": "April 28, 2023",
+        "title": "Educational Technology: Essential Digital Tools",
+        "excerpt": "Advanced techniques and free or affordable technological resources every educator should know.",
+        "readMore": "Read more"
+      },
+      "post5": {
+        "date": "April 20, 2023",
+        "title": "Free or affordable technological resources every educator should know",
+        "excerpt": "Strategies to adapt teaching to different learning styles and needs.",
+        "readMore": "Read more"
+      },
+      "post6": {
+        "date": "April 15, 2023",
+        "title": "Formative Assessment: Beyond Traditional Testing",
+        "excerpt": "Innovative alternatives to evaluate student progress.",
+        "readMore": "Read more"
+      }
+    }
+  },
+  "footer": {
+    "location": "Location",
+    "location_text": "Royal is located in Guachipelín, Escazú, 400m north of Construplaza and offers quality international education at an affordable cost.",
+    "information": "Information",
+    "educational_experience": "Educational Experience",
+    "school_calendar": "School Calendar",
+    "regulation": "Regulation",
+    "contact_us": "Contact Us",
+    "social_links": "Social Links",
+    "get_in_touch": "Get in Touch",
+    "copyright": "© International Royal School 2021. Copyright."
+}
+}
