@@ -1850,12 +1850,12 @@ body .news-container {
         position: fixed !important;
         top: 0 !important;
         right: -100% !important;
-        width: 80% !important;
-        max-width: 300px !important;
-        height: 100vh !important;
+        width: 60% !important;
+        max-width: 280px !important;
+        height: 79.5vh !important;
         background: white !important;
         flex-direction: column !important;
-        padding: 80px 20px 20px !important;
+        padding: 30px 16px 20px !important;
         transition: right 0.3s ease !important;
         box-shadow: -2px 0 10px rgba(0,0,0,0.1) !important;
         z-index: 999 !important;
@@ -1898,8 +1898,7 @@ body .news-container {
 
     /* CONTENEDOR DE BOTONES */
     .classroomvirtual {
-        margin-top: 0;
-        margin-bottom: 20px;
+        margin-top: -5px;
         width: 100%;
         display: flex !important;
         flex-direction: column;
@@ -1910,6 +1909,7 @@ body .news-container {
 
     /* Botón de idioma en tablets/móviles */
     .btn-lang {
+       margin-top: -5px;
         width: 100%;
         justify-content: center;
         padding: 12px;
@@ -1922,11 +1922,12 @@ body .news-container {
 
     /* Botón de aula virtual en tablets/móviles */
     .classroomvirtual .btn {
+     margin-top: -5px;
         width: 100%;
         justify-content: center;
         padding: 12px;
         display: flex;
-        align-items: flex-end;
+        align-items: flex-start;
     }
 
     /* Prevenir scroll cuando el menú está abierto */
