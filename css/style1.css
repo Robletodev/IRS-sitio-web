@@ -1852,7 +1852,7 @@ body .news-container {
         right: -100% !important;
         width: 60% !important;
         max-width: 280px !important;
-        height: 98vh !important;
+        height: 100vh !important;
         background: white !important;
         flex-direction: column !important;
         padding: 30px 16px 20px !important;
