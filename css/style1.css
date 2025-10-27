@@ -1852,7 +1852,7 @@ body .news-container {
         right: -100% !important;
         width: 60% !important;
         max-width: 280px !important;
-        height: 80vh !important;
+        height: 90vh !important;
         background: white !important;
         flex-direction: column !important;
         padding: 30px 16px 20px !important;
@@ -1898,7 +1898,6 @@ body .news-container {
 
     /* CONTENEDOR DE BOTONES */
     .classroomvirtual {
-        margin-top: -5px;
         width: 100%;
         display: flex !important;
         flex-direction: column;
@@ -1909,7 +1908,6 @@ body .news-container {
 
     /* Botón de idioma en tablets/móviles */
     .btn-lang {
-       margin-top: -5px;
         width: 100%;
         justify-content: center;
         padding: 12px;
@@ -1932,7 +1930,7 @@ body .news-container {
 
     /* Prevenir scroll cuando el menú está abierto */
     .no-scroll {
-        overflow: hidden;
+        overflow: ;
     }
 
     /* Botón de hamburguesa activo */
