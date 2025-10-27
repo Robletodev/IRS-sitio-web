@@ -1930,7 +1930,7 @@ body .news-container {
 
     /* Prevenir scroll cuando el menú está abierto */
     .no-scroll {
-        overflow: ;
+        overflow: auto;
     }
 
     /* Botón de hamburguesa activo */
